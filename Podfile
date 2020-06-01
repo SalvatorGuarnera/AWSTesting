@@ -10,5 +10,8 @@ target 'AWSTesting' do
   pod 'Amplify/Tools'
   pod 'AmplifyPlugins/AWSAPIPlugin'
   pod 'AmplifyPlugins/AWSDataStorePlugin'
+  pod 'AWSUserPoolsSignIn'
+  pod 'AWSAuthUI'
+  pod 'AWSMobileClient'
 
 end
